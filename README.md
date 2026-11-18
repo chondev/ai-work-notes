@@ -1,5 +1,7 @@
 # AI 업무 노트
 
+[AI 업무 노트 사이트 바로가기](https://chondev.github.io/ai-work-notes/)
+
 ## 로컬 미리보기
 
 Node.js 20 이상에서 `npm ci`, `npm run dev`를 차례로 실행하고 http://127.0.0.1:8787/ai-work-notes/ 를 연다. 원고를 수정한 뒤 `npm run build`를 실행하고 브라우저를 새로 고친다.
